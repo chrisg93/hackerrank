@@ -1,5 +1,5 @@
-A First Level Header
-====================
+Some Hacker Rank solutions in Go
+================================
 
 A Second Level Header
 ---------------------
